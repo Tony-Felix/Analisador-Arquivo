@@ -1,0 +1,52 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Elimine o(s) bug(s) da função `show_deepest_file`",
+      "enabled": true,
+      "identifier": "test_deepest_file_final",
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Elimine o(s) bug(s) da função `find_file_by_name`",
+      "enabled": true,
+      "identifier": "test_find_file_by_name_final",
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie testes para a função `show_preview`",
+      "enabled": true,
+      "identifier": "test_assess_students_preview_final",
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Crie testes para a função `show_details`",
+      "enabled": true,
+      "identifier": "test_assess_students_file_details_final",
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Crie testes para a função `show_disk_usage`",
+      "enabled": true,
+      "identifier": "test_assess_students_disk_usage_final",
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Crie testes para a função `find_duplicate_files`",
+      "enabled": true,
+      "identifier": "test_assess_students_find_duplicate_final",
+      "order": 6,
+      "skill_ids": []
+    }
+  ]
+}
